@@ -4,7 +4,7 @@ import MainLayout from "../layouts/MainLayout";
 import AuthLayout from "../layouts/AuthLayout";
 import Home from "../pages/Home";
 import Services from "../pages/Services";
-import Signin from "../pages/Signin";
+import Signin from "../pages/SignIn";
 import Signup from "../pages/SignUp";
 import ProtectedRoute from "./ProtectedRoute";
 import AdminLayout from "../layouts/AdminLayout";

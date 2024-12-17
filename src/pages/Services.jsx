@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Sidebar from "../components/Sidebar";
 import CategoryCard from "../components/CategoryCard";
 import noise from "../assets/noise.svg";
-import WebsiteDev from "../assets/ProgrammingTech/WebsiteDev.jpg";
+import WebsiteDev from "../assets/ProgrammingTech/WebSiteDev.jpg";
 import ApplicationDev from "../assets/ProgrammingTech/ApplicationDev.jpg";
 import WebsitePlatform from "../assets/ProgrammingTech/WebsitePlatform.jpg";
 import SupportSecurity from "../assets/ProgrammingTech/SupportSecurity.jpg";
