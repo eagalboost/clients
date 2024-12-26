@@ -124,9 +124,9 @@ const Footer = () => {
             <h2 className="text-lg font-semibold text-primaryRgb mb-3">
               Contact Us
             </h2>
-            <p className="text-gray-400 mb-1">Dhaka, Bangladesh</p>
+            <p className="text-gray-400 mb-1">7537 Desoto Av, Canoga Park, California 91303, USA.</p>
             <p className="text-gray-400 mb-1">Email: info@eaglesboost.com</p>
-            <p className="text-gray-400 mb-3">Phone: +880-1234-567-890</p>
+            <p className="text-gray-400 mb-3"></p>
             <div className="flex space-x-5">
               <Link
                 to="#"

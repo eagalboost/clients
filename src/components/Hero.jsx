@@ -40,7 +40,7 @@ const Hero = ({
         <div className="text-center">
           {isHomePage ? (
             <h1 className="text-2xl md:text-4xl lg:text-5xl font-bold font-roboto drop-shadow-[0_0_10px_rgba(255,255,255,0.4)] text-primaryText">
-              Find the right freelancer <br /> service, right away
+              Discover the ideal freelance <br /> service without delay
             </h1>
           ) : (
             <>
